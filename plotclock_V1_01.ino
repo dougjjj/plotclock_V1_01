@@ -9,10 +9,10 @@
 // time library see http://playground.arduino.cc/Code/time 
 
 // delete or mark the next line as comment when done with calibration  
-//#define CALIBRATION_STEP1 //Test Servo Position - Should be vertical and parallel
+#define CALIBRATION_STEP1 //Test Servo Position - Should be vertical and parallel
 //#define CALIBRATION_STEP2
 //#define CALIBRATION_STEP3 //Test Lift Settings
-#define RUN_STEP0
+//#define RUN_STEP0
 //#define RUN_STEP1
 
 // When in calibration mode, adjust the following factor until the servos move exactly 90 degrees
